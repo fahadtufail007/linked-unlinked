@@ -1,4 +1,4 @@
-const allUsers = [
+export const allUsers = [
     {
         id: 100,
         name: "Qasim Salam"
@@ -37,7 +37,7 @@ const allUsers = [
     },
 ];
 
-const linked = [
+export const linked = [
     {
         id: 106,
         name: "Talal Ali"
